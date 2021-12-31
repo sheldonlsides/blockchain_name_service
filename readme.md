@@ -1,5 +1,5 @@
-# nameservice
-**nameservice** is a blockchain built using Cosmos SDK and Tendermint and created with [Starport](https://starport.com).
+# Nameservice
+**Nameservice** is a blockchain built using Cosmos SDK and Tendermint and created with [Starport](https://starport.com).
 
 ## Get started
 
